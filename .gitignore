@@ -1,0 +1,15 @@
+target/
+.mvn/wrapper/maven-wrapper.jar
+HELP.md
+
+.idea
+*.iml
+*.iws
+*.ipr
+.vscode/
+.DS_Store
+
+# segredos locais
+.env
+.env.*
+!.env.example
